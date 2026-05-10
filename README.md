@@ -68,7 +68,7 @@ Hospital Management System1/
 
 ### Step 1 — Get SFML
 
-Download SFML 2.6 for Visual C++ from the official site:
+Download SFML 2.6.w for Visual C++ from the official site:
 `https://www.sfml-dev.org/download.php`
 
 Get the version that matches your Visual Studio (VC++ 17 for VS 2022).
