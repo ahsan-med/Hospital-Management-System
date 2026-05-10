@@ -1,0 +1,28 @@
+# ── Build output ──────────────────────────────────────────────
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.lib
+*.exp
+
+# ── SFML library (too large for GitHub, download separately) ──
+External/
+
+# ── Visual Studio clutter ─────────────────────────────────────
+.vs/
+*.user
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.db
+ipch/
+
+# ── OS files ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
